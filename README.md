@@ -34,11 +34,11 @@ The collection consists of two scripts, each with its own purpose:
 
 For "throughput.py" and "dio_dao.py," follow these steps:
 
-    Ensure you have the required Python environment and the Scapy library installed.
+    1 - Ensure you have the required Python environment and the Scapy library installed.
 
-    Place your PCAP log files in the designated folder (specified as pcaps) for each script.
+    2 - Place your PCAP log files in the designated variable (specified as pcaps) for each script.
 
-    Run the desired script to process the PCAP files.
+    3 - Run the desired script to process the PCAP files.
 
     For "throughput.py," the script will calculate and print network throughput, helping assess data transfer rates under different network conditions.
 
@@ -48,4 +48,4 @@ For "throughput.py" and "dio_dao.py," follow these steps:
 
     Press "Enter" to exit each script after reviewing the results.
 
-# These scripts collectively provide valuable insights into the behavior of RPL-based networks and can help network administrators and security professionals identify abnormal network activity or security breaches.
+These scripts collectively provide valuable insights into the behavior of RPL-based networks and can help network administrators and security professionals identify abnormal network activity or security breaches.
