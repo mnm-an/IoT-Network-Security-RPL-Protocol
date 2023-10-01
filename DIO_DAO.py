@@ -4,7 +4,6 @@
 # Import necessary modules from Scapy
 from scapy.all import *
 
-# Set the DOT15.4 protocol to "sixlowpan"
 conf.dot15d4_protocol = "sixlowpan"
 
 # Define a list of PCAP files to analyze
