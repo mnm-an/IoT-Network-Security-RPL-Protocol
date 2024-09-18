@@ -4,7 +4,7 @@ IoT Network Security - Performance analysis of RPL protocol under Blackhole atta
 
 # Project Overview :
 
-This project focuses on the analysis of IoT networks using the Contiki OS and Cooja simulator. It includes Python scripts designed to analyze PCAP (Packet Capture) log files, particularly for networks using the RPL (Routing Protocol for Low-Power and Lossy Networks) protocol. Additionally, the project examines the security vulnerabilities of RPL, specifically addressing the impact of blackhole attacks and proposing a preventive solution based on traffic analysis.
+This project focuses on the analysis of IoT networks using the Cooja simulator. It includes Python scripts designed to analyze PCAP (Packet Capture) log files, particularly for networks using the RPL (Routing Protocol for Low-Power and Lossy Networks) protocol. Additionally, the project examines the security vulnerabilities of RPL, specifically addressing the impact of blackhole attacks and proposing a preventive solution based on traffic analysis.
 For a more in-depth overview, you can read the full project documentation `IoT_Network_Security_RPL_Blackhole.pdf` where we explore the security challenges of IoT networks and our approach to mitigating blackhole attacks.
 
 # Scripts Description:
