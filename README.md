@@ -1,9 +1,14 @@
 # Contiki-Cooja-IOT
 Analyze pcap logs from Contiki cooja
 
-# Script Description:
+# Project Overview :
 
-This Python script collection is designed to analyze PCAP (Packet Capture) log files from a network and calculate essential metrics related to the RPL (Routing Protocol for Low-Power and Lossy Networks) protocol. RPL is commonly used in IoT (Internet of Things) and low-power wireless networks.
+This project focuses on the analysis of IoT networks using the Contiki OS and Cooja simulator. It includes Python scripts designed to analyze PCAP (Packet Capture) log files, particularly for networks using the RPL (Routing Protocol for Low-Power and Lossy Networks) protocol. Additionally, the project examines the security vulnerabilities of RPL, specifically addressing the impact of blackhole attacks and proposing a preventive solution based on traffic analysis.
+For a more in-depth overview, you can read the full project documentation `IoT_Network_Security_RPL_Blackhole.pdf` where we explore the security challenges of IoT networks and our approach to mitigating blackhole attacks.
+
+# Scripts Description:
+
+This Python scripts collection is designed to analyze PCAP (Packet Capture) log files from a network and calculate essential metrics related to the RPL (Routing Protocol for Low-Power and Lossy Networks) protocol. RPL is commonly used in IoT (Internet of Things) and low-power wireless networks.
 
 # Key Features:
 
