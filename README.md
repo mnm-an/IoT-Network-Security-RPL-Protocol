@@ -1,6 +1,6 @@
 # Contiki-Cooja IoT Network Simulation and Analysis
 
-IoT Network Security - Performance Analysis of RPL Protocol under Blackhole Attacks Using PCAP Logs in Contiki-Cooja
+IoT Network Security - Performance analysis of RPL protocol under Blackhole attacks using pcap logs in Cooja simulator
 
 # Project Overview :
 
